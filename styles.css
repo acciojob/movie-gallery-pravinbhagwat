@@ -1,4 +1,14 @@
-.row img{
-	height:100px;
-	width:100px;
+.container-fluid{
+	background-color:blue;
+	border:10px solid blue;
+}
+.row{
+	background-color:blanchedalmond;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+}
+img{
+	height:50px;
+	width:50px;
 }
